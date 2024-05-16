@@ -1,11 +1,20 @@
-import React from 'react'
-import Login from "./pages/Login";
-
 function App() {
-  return (
-    <h1>halo</h1>
+
+  return (<div className="App">
     
-  )
+    <div>
+      Hello world
+    </div>
+    
+    </div>
+    );
+
 }
 
-export default App
+
+
+
+
+
+
+export default App;
